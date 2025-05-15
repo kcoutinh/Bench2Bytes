@@ -1,5 +1,5 @@
-title: Bench2Bytes My PhD Blog
-description: Documenting my journey from wet lab to dry lab
+title: Bench2Bytes 
+description: This is my PhD Blog documenting the journey from wet lab to dry lab
 theme: minima
 plugins:
   - jekyll-feed
