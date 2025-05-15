@@ -1,18 +1,23 @@
 ---
-layout: home
-title: "Bench2Bytes" 
+layout: default
+title: "Bench2Bytes"
 ---
 
-Welcome! This is my journey as a wet lab biologist learning the dark side of computational biology.
+<h1>Bench2Bytes</h1>
+
+<p>Welcome! This is my journey as a wet lab biologist learning the dark side of computational biology.</p>
+
+<hr />
 
 {% assign latest_post = site.posts | first %}
 
-## Latest Post
+<h2>Latest Post</h2>
 
-### [{{ latest_post.title }}]({{ latest_post.url | relative_url }})
+<h3><a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a></h3>
 
-*{{ latest_post.date | date: "%B %d, %Y" }}*
+<p><em>{{ latest_post.date | date: "%B %d, %Y" }}</em></p>
 
-{{ latest_post.excerpt }}
+<p>{{ latest_post.excerpt }}</p>
 
-[Read more]({{ latest_post.url | relative_url }})
+<p><a href="{{ latest_post.url | relative_url }}">Read more</a></p>
+
