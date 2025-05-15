@@ -1,1 +1,38 @@
+---
+layout: post
+title: "A TAD Confused Wet Lab Biologist: Come Get Lost in Transcription and Other Mysteries with Me"
+---
 
+Hello! I'm a PhD student at the **University of Alabama at Birmingham (UAB)**, currently conducting my dissertation research in the lab of **Dr. Chad Hunter**, now located at the **University of Kansas Medical Center (KUMC)**. 
+
+My start at UAB was an adventure, to say the least. I joined the Genetics, Genomics, and Bioinformatics (GGB) theme in 2020- right in the middle of the COVID lockdown. I knew I loved genetics from my earlier work with fruit flies, but I had no clue what "bioinformatics" really meant. My roommate did— her work was entirely computer-based, and that's how I first began learning to code.
+
+I joined my first lab, which focused on transcription factor modulation of skeletal muscle autophagy to improve brain and body health during aging. I had the privilege of presenting a poster with my own heatmaps and volcano plots— and I was on cloud nine! I even won a travel award. But just one week later, I found out the lab was moving. For financial and logistical reasons, I decided to stay at UAB and joined my current lab.
+
+The Hunter Lab is also primarily a "wet lab," and we focus on transcription factor regulation in pancreatic islet cells. When I joined, my goal was to harness the power of multi-omics to elevate our diabetes research. Since then, I’ve:
+- Coauthored a publication ([Toren et al., *Molecular Metabolism*, 2023](https://pubmed.ncbi.nlm.nih.gov/37536498))
+- Passed my qualifying exam
+- Worked on two first-author and two co-author papers
+- Won multiple travel awards
+- Presented at multiple conferences (Endocrine Society 2024, Midwest Islet Club 2025)
+
+But my journey is still beginning. I’m working daily to build strong practices in bioinformatics by focusing on foundational tools and applying the FAIR data principles (Findable, Accessible, Interoperable, Reusable). More importantly, I want to be a light for others navigating similar paths.
+
+This blog will document the ups, downs, and everything in between of being a wet-and-dry lab biologist.
+I’ll share what I’m learning, the tools I’m trying, and the mistakes I’m making—so whether you're a student, researcher, or just curious, you can follow along or learn something new.
+
+## 🔍 What This Blog Will Cover
+- Tools and tips for transcriptomics (Seurat, Scanpy, DESeq2, edgeR, etc.)
+- Pipelines (Nextflow, bash scripting)
+- Learning algorithms and computational thinking
+- Time management as a dual wet/dry lab researcher
+- Troubleshooting strategies in bioinformatics
+- Surviving (and thriving in) a PhD
+
+## 📬 Let’s Connect
+If you're in bioinformatics or transcription biology, I’d love to hear from you.  
+Reach out on [LinkedIn](https://www.linkedin.com/in/kristen-coutinho) or [GitHub](https://github.com/kcoutinh).
+
+Thanks for reading!
+
+**Kristen Coutinho**
