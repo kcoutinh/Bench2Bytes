@@ -4,14 +4,14 @@ title: "Bench2Bytes"
 ---
 <img src="assets/images/bench2bytes-banner.png" alt="Bench to Bytes banner" style="width:100%; border-radius: 12px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);" />
 
-Hi, I’m KC — a PhD student exploring gene regulation using both **wet lab experiments** and **computational genomics**.
+Hi, I’m Kristen Coutinho — a PhD student exploring gene regulation using both **wet lab experiments** and **computational biology**.
 
-Bench2Bytes is where I share ideas, experiences, and lessons learned while working with:
+Bench2Bytes is where I will be sharing ideas, experiences, and lessons learned while working with:
 - RNA-seq, ATAC-seq, and single-cell datasets  
-- Tools like DESeq2, Seurat, edgeR, and Scanpy  
+- Tools like DESeq2, edgeR, Seurat, and Scanpy  
 - Workflow design, quality control, and efficiency tips  
 
-Each post reflects real decisions made during research — how I think through a tool, what I watch for, and the tradeoffs that matter when working with complex data.
+Each post reflects real decisions I made during research — how I think through a tool, what I watch for, and the tradeoffs that matter when working with complex data. 
 
 <img src="assets/images/pipeline.png" alt="Bioinformatics sketch" style="width:100%; margin-top: 24px; border-radius: 12px;" />
 
