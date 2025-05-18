@@ -2,7 +2,7 @@
 layout: default
 title: "Bench2Bytes"
 ---
-<img src="/assets/images/bench2bytes-banner.png" alt="Bench to Bytes banner" style="width:100%; border-radius: 12px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);" />
+<img src="assets/images/bench2bytes-banner.png" alt="Bench to Bytes banner" style="width:100%; border-radius: 12px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);" />
 
 Hi, I’m KC — a PhD student exploring gene regulation using both **wet lab experiments** and **computational genomics**.
 
