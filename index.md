@@ -13,7 +13,7 @@ Bench2Bytes is where I share ideas, experiences, and lessons learned while worki
 
 Each post reflects real decisions made during research — how I think through a tool, what I watch for, and the tradeoffs that matter when working with complex data.
 
-<img src="/assets/images/pipeline-sketch.png" alt="Bioinformatics sketch" style="width:100%; margin-top: 24px; border-radius: 12px;" />
+<img src="assets/images/pipeline.png" alt="Bioinformatics sketch" style="width:100%; margin-top: 24px; border-radius: 12px;" />
 
 Whether you're just starting out or refining your own approach to bioinformatics, I hope you’ll find something useful here.
 
